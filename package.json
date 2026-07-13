@@ -2,6 +2,7 @@
   "name": "dgs-ai-first",
   "packageManager": "yarn@4.11.0",
   "dependencies": {
+    "@azure/cosmos": "^4.4.1",
     "@azure/functions": "^4.16.2",
     "@langchain/community": "0.0.57",
     "@langchain/core": "0.1.63",
